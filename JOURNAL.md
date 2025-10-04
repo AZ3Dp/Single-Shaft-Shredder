@@ -23,3 +23,21 @@ Attached is an inspiration for the shredder blades!
 ![Screenshot 2025-02-15 181526.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6MjI2LCJwdXIiOiJibG9iX2lkIn19--62f3418ef9f604598f068dfddee4d7adb16aa483/Screenshot%202025-02-15%20181526.png)
   
 
+## 10/4/2025 - Started CAD  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/redirect/eyJfcmFpbHMiOnsiZGF0YSI6NDM1LCJwdXIiOiJibG9iX2lkIn19--681e24f4f9d92724c9e87b0a970ba90bb61fc071/image.png)
+Made some decent progress making the CAD file for the shredder. I will go over some highlights and features. 
+Highlights:
+
+- I made an object that sort of looks like a shredder. 
+- It took me a while to figure out the best way to model it
+	- I am trying to use separate components, which is considered "good organization" in CAD
+	- This will prove useful if I ever happen to want to make animations
+
+Features:
+
+- I set up groups of 3 blades: this will displace the cutting, enabling less torque necessary to cut the material 
+	- This is visualized using different colors
+- There are also a set of fixed blades the rotating blades will be cutting into
+- The fixed blades are connected to the "base", utilizing the flexibility of 3D printing technology  
+
