@@ -41,3 +41,21 @@ Features:
 - There are also a set of fixed blades the rotating blades will be cutting into
 - The fixed blades are connected to the "base", utilizing the flexibility of 3D printing technology  
 
+## 10/10/2025 - Brushed up CAD  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1MiwicHVyIjoiYmxvYl9pZCJ9fQ==--6fc428b0e8b587b821c30bd0c3dda4274a89033d/image.png)
+![Screenshot 2025-10-10 134434.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTQ1MywicHVyIjoiYmxvYl9pZCJ9fQ==--0b0b124920553589147f04995d1d9195f9965a53/Screenshot%202025-10-10%20134434.png)
+
+Brushed up the CAD!
+
+- Made it 3D printable
+- Connects by using m5 hardware
+- Made a Shaft Collar
+- Found Large Bearings (12mm ID) to use
+I also created a mesh/filter to enable consistent sized particles from coming through.
+Possible Roadblocks & Looking Ahead:
+
+- I don't think a 3D printed shaft will be strong enough
+- A funnel/feeder would be nice
+I feel pretty good about how it's looking.  
+
