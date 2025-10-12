@@ -59,3 +59,24 @@ Possible Roadblocks & Looking Ahead:
 - A funnel/feeder would be nice
 I feel pretty good about how it's looking.  
 
+## 10/11/2025 - Created Aluminum Extrusion Base  
+
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwNywicHVyIjoiYmxvYl9pZCJ9fQ==--ea648d3cc68ccbb904c799057a8054e6f4ac78ec/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwOCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5940f4370eb364cfa51944b8812973b82ae5693/image.png)
+![image.png](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6MTcwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--e29d462c45e7787adc2fcb5362b9410d7c2b8f21/image.png)
+
+Wow. What a journey.
+It genuinely feels so amazing to have a project come together like that.
+So I guess I'm just about ready to ship this project!?!
+Here's what I've accomplished:
+
+- Created aluminum extrusion base for the shredder
+- Finalized BOM - finding off-the-shelf parts is quite hard!
+- Created mounts on the shredder for the aluminum extrusion
+
+Some minor trinkets that will be modelled in (but I'm too impatient to ship):
+
+- aluminum extrusion mounts (These can be quickly modelled)
+- Hopper (literally a hollowed pyramid shape)
+  
+
