@@ -6,10 +6,6 @@
   ==================================================================
 -->
 
-This is my journal of the design and building process of **3D Printed Single Shaft Shredder**.  
-You can view this journal in more detail on **Hack Club Blueprint** [here](https://blueprint.hackclub.com/projects/98).
-
-
 ## 10/3/2025 - First Steps, Planning  
 
 Well, it's shredder time! 
@@ -79,4 +75,10 @@ Some minor trinkets that will be modelled in (but I'm too impatient to ship):
 - aluminum extrusion mounts (These can be quickly modelled)
 - Hopper (literally a hollowed pyramid shape)
   
+
+## 10/26/2025 - [Build] Unboxing!  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg2MiwicHVyIjoiYmxvYl9pZCJ9fQ==--65165e5184b9df2e4999711fe77b97f114a45252/image.jpg)![image](/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NTg2NiwicHVyIjoiYmxvYl9pZCJ9fQ==--d977470f86a84df27e197f594d4592fd52f3b792/image.jpg)
+
+Started off the work session very excitedly. I had received the Amazon hardware supplies bought by the grant; I’m so grateful! However, the unboxing experience was slightly unpleasant. The aluminum hex shaft as well as the 400mm 2020 aluminum extrusions came as expected. However, the shorter 200mm 2020 aluminum extrusions came with tape on EVERY SINGLE PIECE (10 TOTAL), WHICH I HAD TO PEEL FROM ALL 4 SIDES (40 PIECES OF TSPE TOTAL). AND THE WORST PART? THOSE ALUMINUM EXTRUSIONS HAD METAL SHAVINGS ON THEM. I understand that cutting metal will produce those shavings, but those shavings should not have ended up in the hands of the consumer! I don’t have any experience with manufacturing aluminum extrusion myself, but I think a shop-vacuum or a blower could easily get rid of the shavings. And the tape took FOREVER to unbox… Rough start so far.  
 
