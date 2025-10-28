@@ -82,3 +82,8 @@ Some minor trinkets that will be modelled in (but I'm too impatient to ship):
 
 Started off the work session very excitedly. I had received the Amazon hardware supplies bought by the grant; I’m so grateful! However, the unboxing experience was slightly unpleasant. The aluminum hex shaft as well as the 400mm 2020 aluminum extrusions came as expected. However, the shorter 200mm 2020 aluminum extrusions came with tape on EVERY SINGLE PIECE (10 TOTAL), WHICH I HAD TO PEEL FROM ALL 4 SIDES (40 PIECES OF TSPE TOTAL). AND THE WORST PART? THOSE ALUMINUM EXTRUSIONS HAD METAL SHAVINGS ON THEM. I understand that cutting metal will produce those shavings, but those shavings should not have ended up in the hands of the consumer! I don’t have any experience with manufacturing aluminum extrusion myself, but I think a shop-vacuum or a blower could easily get rid of the shavings. And the tape took FOREVER to unbox… Rough start so far.  
 
+## 10/27/2025 - 3D Printed 2020 Extrusion Corner Brackets  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--3d14ddc013276a85f6e733f382916b80ddb933ef/image.jpg)
+3D printed 2020 aluminum extrusion corner brackets. These will hold the frame together. Now I’m just waiting for the t-nuts to arrive! The part is made extra chunky for 3D printing!  
+
