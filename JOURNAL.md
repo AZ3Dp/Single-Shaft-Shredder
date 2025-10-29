@@ -87,3 +87,11 @@ Started off the work session very excitedly. I had received the Amazon hardware 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjEwMSwicHVyIjoiYmxvYl9pZCJ9fQ==--3d14ddc013276a85f6e733f382916b80ddb933ef/image.jpg)
 3D printed 2020 aluminum extrusion corner brackets. These will hold the frame together. Now I’m just waiting for the t-nuts to arrive! The part is made extra chunky for 3D printing!  
 
+## 10/29/2025 - CAD Touchup + Corner brackets!  
+
+![Screenshot 2025-10-29 at 12.01.50 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUwMCwicHVyIjoiYmxvYl9pZCJ9fQ==--299f60af6d276c055c154ebd758ae6556f38913e/Screenshot%202025-10-29%20at%2012.01.50%E2%80%AFPM.png)
+![Screenshot 2025-10-29 at 12.34.58 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUwMywicHVyIjoiYmxvYl9pZCJ9fQ==--4605798c77d7da62d666fd4bc868d6a358c2e36c/Screenshot%202025-10-29%20at%2012.34.58%E2%80%AFPM.png)
+Today, I designed 2020 aluminum extrusion 90 degree corner brackets. I tried to make them as chunky as possible, taking advantage of 3D printing's characteristics. They turned out pretty great!
+
+  
+
