@@ -93,5 +93,5 @@ Started off the work session very excitedly. I had received the Amazon hardware 
 ![Screenshot 2025-10-29 at 12.34.58 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NjUwMywicHVyIjoiYmxvYl9pZCJ9fQ==--4605798c77d7da62d666fd4bc868d6a358c2e36c/Screenshot%202025-10-29%20at%2012.34.58%E2%80%AFPM.png)
 Today, I designed 2020 aluminum extrusion 90 degree corner brackets. I tried to make them as chunky as possible, taking advantage of 3D printing's characteristics. They turned out pretty great!
 
-  
+(and I did 3D model them before 3D printing!)  
 
