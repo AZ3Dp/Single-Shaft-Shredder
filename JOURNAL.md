@@ -95,3 +95,9 @@ Today, I designed 2020 aluminum extrusion 90 degree corner brackets. I tried to 
 
 (and I did 3D model them before 3D printing!)  
 
+## 10/31/2025 - Updating CAD for Hardware  
+
+![Screenshot 2025-10-31 at 10.02.46 AM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Njk3OSwicHVyIjoiYmxvYl9pZCJ9fQ==--38a5a239f8871715d938948ddcb50b77c6822dde/Screenshot%202025-10-31%20at%2010.02.46%E2%80%AFAM.png)
+I am now working to update the CAD to be compatible with the arrived hardware.
+The shaft is a lot thicker than I thought it would be, so I am changing the geometry there. Also, it is quite long, so I may saw it short.  
+
