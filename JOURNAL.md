@@ -101,8 +101,14 @@ Today, I designed 2020 aluminum extrusion 90 degree corner brackets. I tried to 
 I am now working to update the CAD to be compatible with the arrived hardware.
 The shaft is a lot thicker than I thought it would be, so I am changing the geometry there. Also, it is quite long, so I may saw it short.  
 
-## 11/1/2025 - Partial assembly of the frame  
+## 11/1/2025 12 PM - Partial assembly of the frame  
 
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzQ1MywicHVyIjoiYmxvYl9pZCJ9fQ==--2e6facd155f21cd533d1421de1d754b17bdd995d/image.jpg)
 Assembling the frame! I’m using internal 90 degree brackets as well as 3 way external brackets. All 3D printed! This definitely took a lot longer than expected: the t-nuts are quite hard to align. And there are wayyy more m5x8 screws used than I expected.  
+
+## 11/1/2025 6 PM - Updated Custom 90 degree Internal Corner Bracket  
+
+![Screenshot 2025-11-01 at 6.36.27 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6NzU4MywicHVyIjoiYmxvYl9pZCJ9fQ==--a3b7fd1789ca7a0337eec47c69ddafe12b61346b/Screenshot%202025-11-01%20at%206.36.27%E2%80%AFPM.png)
+Changed some aspects of the chunky internal corner bracket. Made the object more compact and improved printability with less circular overhangs and added some chamfers.
+  
 
