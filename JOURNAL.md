@@ -112,3 +112,8 @@ Assembling the frame! I’m using internal 90 degree brackets as well as 3 way e
 Changed some aspects of the chunky internal corner bracket. Made the object more compact and improved printability with less circular overhangs and added some chamfers.
   
 
+## 11/2/2025 - Worked on Aluminum Extrusion Frame Assembly  
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--66ad001e8dbf74696de05afd5d7fdb86fcaafc09/image.jpg)
+Got another part of the aluminum extrusion frame assembled. It’s pretty hard to align the extrusions perfectly with the corner brackets I chose. Right now working on 3 way brackets  
+
