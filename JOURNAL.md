@@ -117,3 +117,9 @@ Changed some aspects of the chunky internal corner bracket. Made the object more
 ![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6Nzg4MCwicHVyIjoiYmxvYl9pZCJ9fQ==--66ad001e8dbf74696de05afd5d7fdb86fcaafc09/image.jpg)
 Got another part of the aluminum extrusion frame assembled. It’s pretty hard to align the extrusions perfectly with the corner brackets I chose. Right now working on 3 way brackets  
 
+## 11/9/2025 - Added more fasteners and prepping for hopper  
+
+![Screenshot 2025-11-09 at 12.04.27 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgwOSwicHVyIjoiYmxvYl9pZCJ9fQ==--5d3bd4f3b45bcd2f90b29ddb6f3104113d73fa97/Screenshot%202025-11-09%20at%2012.04.27%E2%80%AFPM.png)
+![Screenshot 2025-11-09 at 12.23.34 PM](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTgxMCwicHVyIjoiYmxvYl9pZCJ9fQ==--b18825bcb7dd9448c4e1361b36286f8145d45e4c/Screenshot%202025-11-09%20at%2012.23.34%E2%80%AFPM.png)
+Today, I spent a lot of time brainstorming and understanding the forces that go into a shredder. The base needs to have a lot of structural integrity, since a great amount of force will be exerted on the base. To combat this, a lot more fasteners are added to combat torsion. If necessary, I will add metal beams to support the base, but hopefully that's not necessary. I also added a bunch of mounting holes for the future hopper.  
+
